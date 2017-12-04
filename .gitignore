@@ -110,3 +110,7 @@ test/cache/*
 
 libbitcoinconsensus.pc
 contrib/devtools/split-debug.sh
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
